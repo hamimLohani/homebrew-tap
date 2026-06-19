@@ -1,8 +1,8 @@
 class SystemSuite < Formula
   desc "Terminal-based system maintenance and monitoring toolkit"
-  homepage "https://github.com/hamim-24/system_suite"
-  url "https://github.com/hamim-24/system_suite/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "758ab09000c90b551783cd79e1530e6c0f2403b8d781fb3e44f40e001ead407c"
+  homepage "https://github.com/hamimLohani/system_suite"
+  url "https://github.com/hamimLohani/system_suite/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "b1f7cc1d9f189a88101fcd920372154bd0cc1fd6490da1a825a8a22ad1f95712"
   license "MIT"
   version "1.2.0"
 
