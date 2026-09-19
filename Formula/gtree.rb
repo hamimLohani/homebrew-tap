@@ -1,8 +1,8 @@
 class Gtree < Formula
   desc "Scan your directory tree for git repositories and display their status"
   homepage "https://github.com/hamimLohani/gtree"
-  url "https://github.com/hamimlohani/gtree/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "6ca070125792e00a87fd887b750176eedf59cf7a71983e82e6db0a9f16aa7c6f"
+  url "https://github.com/hamimlohani/gtree/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "9d77dbf5f59344560e3bb24e3f89551d3012c47999f6b7d83f5c4d66e34cc8c4"
   license "MIT"
   head "https://github.com/hamimlohani/gtree.git", branch: "main"
 
