@@ -16,6 +16,7 @@ class Gtree < Formula
       -X github.com/hamimlohani/gtree/cmd.BuildDate=#{time.iso8601}
     ]
     system "go", "build", *std_go_args(ldflags: ldflags), "."
+    man1.install Dir["man/*.1"] if Dir.exist?("man")
   end
 
   test do
