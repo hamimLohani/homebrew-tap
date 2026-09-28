@@ -1,8 +1,8 @@
 class Sweep < Formula
   desc "Safe, fast, and transparent macOS application uninstaller"
   homepage "https://github.com/hamimLohani/sweep"
-  url "https://github.com/hamimlohani/sweep/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "a86ea0677f8f7c5c956194302dced55b09b42e7c5961673ec886641ab2265b62"
+  url "https://github.com/hamimlohani/sweep/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "53903dbdfd46182ff10beaa161e0de7cba90ae87fa9d26f2f640cd1d7b11d7a2"
   license "MIT"
   head "https://github.com/hamimlohani/sweep.git", branch: "main"
 
